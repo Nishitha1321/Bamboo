@@ -1,10 +1,10 @@
-transactions, items
-t100,i1 i2 i5 null
-t200,i2 i4 null null
-t300,i2 i3 null null
-t400,i1 i2 i4 null
-t500,i1 i3 null null
-t600,i2 i3 null null
-t700,i1 i3 null null
-t800,i1 i2 i3 i5
-t900,i1 i2 i3 null
+transactions, item1, item2, item3, item4
+t100,i1, i2, i5, null
+t200,i2, i4, null, null
+t300,i2, i3, null, null
+t400,i1, i2, i4, null
+t500,i1, i3, null, null
+t600,i2, i3, null, null
+t700,i1, i3, null, null
+t800,i1, i2, i3, i5
+t900,i1, i2, i3, null
