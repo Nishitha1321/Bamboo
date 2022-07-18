@@ -1,0 +1,8 @@
+transactions, item1, item2, item3, item4, item5
+t1, t-shirt, trouser, belt, NaN, NaN
+t2, t-shirt, jacket, NaN, NaN, NaN
+t3, jacket, gloves, NaN, NaN, NaN
+t4, t-shirt, trouser, jacket, NaN, NaN
+t5, t-shirt, trouser, sneakers, jacket, belt
+t6, trousers, sneakers, belt, NaN, NaN
+t7, trousers, belt, sneakers, NaN, NaN
